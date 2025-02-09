@@ -2,3 +2,46 @@
 a.active {
     font-weight: bold;
 }
+html{
+    background:#CCD5FF;} 
+   div{
+    background: #7CC6FE; 
+ height: 95px; width: 5000px;
+ position: relative;
+ top: -50px;
+ left: -8px;
+   }
+   body{
+    color: #C884A6;
+text-shadow: 2px 2px 4px rgb(0,0,0,0.2);
+   }
+   div{color: #C884A6;
+    text-shadow: 2px 2px 4px rgb(0,0,0,0.3);
+
+   }
+   img{
+    position: absolute;
+    left: 280px; Top 597px; bottom: 100px;}
+    h4{
+        font-size: 20px; font-family: 'Times New Roman', Times, serif;
+        position:absolute; 
+        left: auto; right: 355px; bottom: 70px;
+    }
+    h3 {
+        font-size: 30px; font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    left: 508px; right: auto; bottom: 230px;
+    }
+    h2 {
+        position: absolute;
+        left: 28%;
+        top: 15%;
+        font-size: 45px;
+        
+    }
+    h1{
+        font-size: 50px;
+        position: relative;
+        top: 20px;
+        right: -18px;
+    }
